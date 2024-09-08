@@ -6,6 +6,7 @@ const Greeting = ()=> {
 
     const handleInput = (e)=> {
         setName(e.target.value);
+        
     }
 
     return(
